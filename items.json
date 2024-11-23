@@ -1,0 +1,67 @@
+[
+  {
+    "internalPath": "gfx/invobjs/default",
+    "name": "Default",
+    "quality": 10
+  },
+  {
+    "internalPath": "gfx/invobjs/seed-wartybirch",
+    "name": "Warty Birch Catkin",
+    "quality": 46
+  },
+  {
+    "internalPath": "gfx/invobjs/seed-planetree",
+    "name": "Plane Seedpods",
+    "quality": 70
+  },
+  {
+    "internalPath": "gfx/invobjs/seed-laurel",
+    "name": "Laurel Seeds",
+    "quality": 47
+  },
+  {
+    "internalPath": "gfx/invobjs/mulberry",
+    "name": "Mulberry",
+    "quality": 170
+  },
+  {
+    "internalPath": "gfx/invobjs/applecore",
+    "name": "Red Apple Core",
+    "quality": 50
+  },
+  {
+    "internalPath": "gfx/invobjs/seed-pine",
+    "name": "Pine Cone",
+    "quality": 54
+  },
+  {
+    "internalPath": "water",
+    "name": "Water",
+    "quality": 339
+  },
+  {
+    "internalPath": "gfx/invobjs/treepot-s",
+    "name": "Treeplanter's Pot",
+    "quality": 229.7
+  },
+  {
+    "internalPath": "gfx/invobjs/mulch",
+    "name": "Mulch",
+    "quality": 159
+  },
+  {
+    "internalPath": "gfx/invobjs/seed-witherstand",
+    "name": "Withercorn",
+    "quality": 75
+  },
+  {
+    "internalPath": "",
+    "name": "",
+    "quality": 10
+  },
+  {
+    "internalPath": "",
+    "name": "",
+    "quality": 10
+  }
+]
